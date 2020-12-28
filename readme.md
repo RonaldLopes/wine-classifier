@@ -1,5 +1,5 @@
 # Classificador de vinhos com o PyCaret
-Criando um classificador de vinhos utilizando o PyCaret, uma biblioteca para machine learning que permite construir modelos de aprendizado de máquina com poucas linhas de código. Também foi utilizado o Streamlit para tornar nosso nodelo em uma aplicação final e pronta para o uso.
+Criando um classificador de vinhos utilizando o PyCaret, uma biblioteca para machine learning que permite construir modelos de aprendizado de máquina com poucas linhas de código. Também foi utilizado o Streamlit para tornar nosso modelo em uma aplicação final e pronta para o uso.
 
 
 ![tela](images/screen.png)
